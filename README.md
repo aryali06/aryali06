@@ -13,7 +13,7 @@
 Student who is learning to make cybersecurity projects. I also indulge in some HTML and CSS coding, and document my labs to keep a record of tools I use i.e. Kali Linux VM, Wireshark, Metasploit, BurpSuite and more.
 
 😄 &nbsp;Pronouns: **she/her**  
-🔭 &nbsp;I'm currently working on **making a website with HTML, CSS, and JavaScript.**  
+🔭 &nbsp;I'm currently working on **making a student planner website.**  
 🌱 &nbsp;I'm currently learning **information security, digital forensics, and digital and cyber crime.**  
 🤔 &nbsp;I'm looking for help with **cybersecurity-related projects to make and work on.**
 
